@@ -31,3 +31,5 @@ https://github.com/OrchardCMS/OrchardCore
     Create a new project in visual studio
     Version Control -> Manage Branches and remotes, plugin https address from git
     commit changes on visual studio and push to git
+    
+    on subsequent pushes, version control -> merge -> name of branch / master
