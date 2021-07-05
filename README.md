@@ -1,9 +1,14 @@
 # asp.net
 Visual Studio
 
-
-
 A portfolio of past projects, build instructions and platforms are specified at the start of each branch in order to ensure proper compilation. Everything is situated within its proper branch which is accessed through the drop down.
+
+Start with one of three templates for web:
+
+1. React.js
+2. Web Application MVC
+3. Web Application
+
 
 https: https://github.com/danielbereza50/asp.net.git
 
